@@ -1,6 +1,6 @@
 # HangMan Game 
 A word guessing game msde using the Pygame library in Python [It contains a lot of bugs].
-
+![Screenshot_2023-02-22-21-02-31-177](https://user-images.githubusercontent.com/114089324/220672044-da108c0b-23a2-48c7-a5da-914c91ac1bef.jpeg)
 ## Gameplay
 
 When the game starts, a word is selected at random from a list of words. The player's objective is to guess the word by selecting letters from the alphabet.
