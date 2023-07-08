@@ -29,11 +29,11 @@ The game depends on the following libraries:
 
 To play the game, first install Pygame using pip:
 ```
-pip install pygame
+pip3 install pygame
 ```
 Run the HangManGame_code.py file or the following command in the terminal :
 ```
-HangManGame_code.py
+python3 HangManGame_code.py
 ```
 
 ## Credits:
